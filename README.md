@@ -1,2 +1,4 @@
 # GIT
-My fir git repository
+My first git repository
+<br>
+Author - Nittin Kumar
